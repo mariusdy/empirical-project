@@ -27,17 +27,18 @@ Install the required dependencies using pip:
 pip install requests beautifulsoup4 pandas matplotlib seaborn
 
 To run the project, you can follow these instructions (assuming you’re using a Jupyter notebook):
-```markdown
+
 
 1. Navigate to the project directory:
    ```bash
    cd empirical-project
 
 Open the Jupyter notebook:
+```bash
 jupyter notebook empirical_project.ipynb
+```
 
-
-## Blog Post
+## Blog-Post
 The blog post can be found here : 
 [blog](https://hackmd.io/@mariusdddd/BkvDKaIylg)
 
